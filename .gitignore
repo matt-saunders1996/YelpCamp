@@ -1,0 +1,5 @@
+.vscode
+.VSCodeCounter
+coltcheck
+node_modules
+.env
